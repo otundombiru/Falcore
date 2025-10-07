@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Falcore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Falcore-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/files.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
